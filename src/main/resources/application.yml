@@ -3,3 +3,6 @@ facebook:
   appSecret: 49571a4d40fc93d36c62b5268e1b5fee
   appNamespace:
 
+app:
+  rememberMe:
+    privateKey: some_secret_word
